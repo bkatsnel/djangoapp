@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'pgqatestapp1'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d8178c5b781740f4959a204a5713fb3c }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6674197d02de4f84a067dcea2e2be275 }}
